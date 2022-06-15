@@ -3,6 +3,11 @@
 안녕하세요 경북대학교 사범대학 부설고등학교 자율동아리 NeRd입니다.
 E-mail: admin@knuhs.xyz
 
+<h1>Service</h1>
+<ul>
+<li>Unknown Says: <a href="https://nerd.knuhs.xyz/">https://nerd.knuhs.xyz</a></li>
+</ul>
+
 <h1>Member</h1>
 
 <legend><a href="https://github.com/name0825">ㅂㅁㅈ</a></legend>
