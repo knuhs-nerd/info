@@ -3,6 +3,16 @@
 안녕하세요 경북대학교 사범대학 부설고등학교 자율동아리 NeRd입니다.<br />
 E-mail: admin@knuhs.xyz
 
+<h1>활동 내용</h1>
+<ul>
+<li>2021.09. NeRd 개설</li>
+<li>2021.10. 출석체크 사이트 개설</li>
+<li>2021.11. 출석체크 사이트 폐지</li>
+<li>2022.03. 사대부고 익명 게시판 'Unknown Says' 개발 시작</li>
+<li>2022.05. 사대부고 익명 게시판 'Unknown Says' 베타 테스트</li>
+<li>2022.06. 사대부고 익명 게시판 'Unknown Says' 개설</li>
+</ul>
+
 <h1>Service</h1>
 <ul>
 <li>Unknown Says: <a href="https://nerd.knuhs.xyz/">https://nerd.knuhs.xyz</a></li>
