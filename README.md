@@ -9,7 +9,6 @@ E-mail: admin@knuhs.xyz
 <li>2021.10. 출석체크 사이트 개설</li>
 <li>2021.11. 출석체크 사이트 폐지</li>
 <li>2022.03. 사대부고 익명 게시판 'Unknown Says' 개발 시작</li>
-<li>2022.05. 사대부고 익명 게시판 'Unknown Says' 베타 테스트</li>
 <li>2022.06. 사대부고 익명 게시판 'Unknown Says' 개설</li>
 </ul>
 
