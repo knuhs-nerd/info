@@ -14,7 +14,10 @@ E-mail: admin@knuhs.xyz
 
 <h1>Service</h1>
 <ul>
-<li>Unknown Says: <a href="https://nerd.knuhs.xyz/">https://nerd.knuhs.xyz</a></li>
+<li>
+Unknown Says: <del><a href="https://nerd.knuhs.xyz/">https://nerd.knuhs.xyz</a></del><br />
+2022. 11. 01. 서비스종료
+</li>
 </ul>
 
 <h1>Member</h1>
